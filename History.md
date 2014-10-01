@@ -1,3 +1,7 @@
+1.2.0 / 2014-10-01
+==================
+
+  * Merge pull request #1 from shawnfrench/add_new_ecommerce_events
 
 1.1.0 / 2014-09-05
 ==================
